@@ -1,0 +1,34 @@
+body {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+li{
+    list-style-type: none;
+    display:  
+}
+
+
+nav{
+
+    background-color: black;
+    color: red;
+    padding: 60px;
+    position: sticky;
+    top: 0;
+    width: 100vw;
+    font-size: 20px; 
+
+}
+
+divs{
+
+    
+    color: green;
+}
+
+h1{
+    color: red;
+}
