@@ -6,16 +6,16 @@ body {
 }
 
 li{
-    list-style-type: none;
+    list-style-type:none: 
     display:  
 }
 
 
 nav{
 
-    background-color: black;
-    color: red;
-    padding: 60px;
+    background-color:black;   
+    color:white;
+    padding: 30px;
     position: sticky;
     top: 0;
     width: 100vw;
@@ -23,12 +23,22 @@ nav{
 
 }
 
-divs{
+.one{
 
-    
+    font-size: 20px;
     color: green;
 }
 
 h1{
     color: red;
 }
+.two{
+    padding: 30px;
+}
+.abc
+{
+    
+    margin: 10px 10px 2px 0px;
+    display: block;
+}
+
